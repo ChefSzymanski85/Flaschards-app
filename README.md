@@ -1,4 +1,4 @@
-### Flaschard-O-Matic
+# Flaschard-O-Matic
 ## Discover the flashcard difference
 
 Everyone, at some point in their life, has used flashcards before. They are great for studying, but what's the problem with them?
@@ -16,18 +16,18 @@ using only a computer.
 - *Edit card*: allows the user to modify information on an existing card
 
 ## Technology
-# Built with React. Used the following React features:
+### Built with React. Used the following React features:
 - useState
 - useEffect
 - React-router-dom
 - Event listeners (mainly click and submission handlers)
 
-# Bootstrap
+### Bootstrap
 - Buttons
 - Forms
 - Cards
 
-# An API server, powered by [json-server](https://www.npmjs.com/package/json-server)
+### An API server, powered by [json-server](https://www.npmjs.com/package/json-server)
 
 ## Discoveries
 Discovered the wonderful world of React. React makes complex apps much easier than having to modify the DOM itself.
