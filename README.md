@@ -6,7 +6,7 @@ You have to go to the store and buy the cards and a marker. Some of the cards en
 try and keep track of. With everything else in life becoming more digital, I felt the need to create an app that would allow us to study,
 using only a computer.
 
-![This is the home page](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/8ad6e17b7d849280a619e4bb69c26baa-home.png "Flashcards home"
+![This is the home page](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/8ad6e17b7d849280a619e4bb69c26baa-home.png "Flashcards home")
 
 ## Features
 - *Study*: allows the user to study the cards from a specified deck
