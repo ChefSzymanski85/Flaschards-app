@@ -9,11 +9,11 @@ using only a computer.
 ![This is the home page](https://res.cloudinary.com/strive/image/upload/w_1000,h_1000,c_limit/8ad6e17b7d849280a619e4bb69c26baa-home.png "Flashcards home")
 
 ## Features
-- *Study*: allows the user to study the cards from a specified deck
-- *Create deck*: allows the user to create a new deck
-- *Edit deck*: allows the user to modify information on an existing deck
-- *Add card*: allows the user to add a new card to an existing deck
-- *Edit card*: allows the user to modify information on an existing card
+- **Study**: allows the user to study the cards from a specified deck
+- **Create deck**: allows the user to create a new deck
+- **Edit deck**: allows the user to modify information on an existing deck
+- **Add card**: allows the user to add a new card to an existing deck
+- **Edit card**: allows the user to modify information on an existing card
 
 ## Technology
 ### Built with React. Used the following React features:
